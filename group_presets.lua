@@ -17,7 +17,7 @@ end
 include("keysym.h.lua")
 
 ---- CHANGELOG -----
--- ondrase, groups now work for both autogroups and regular groups
+-- ondrase, presets now work for both autogroups and regular groups
 -- hihoman23,       v5.00   (01nov2023) :   Allows for multiple presets, which are controlled with load_autogroup_preset,
 --											for different saved group presets.
 -- badosu born2crawl,		v4.01	(08oct2021)	: 	Use actions instead of hardcoded keybindings
